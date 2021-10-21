@@ -1,5 +1,8 @@
 _repo: The-Little-Review-September-1915-Vol-2-No-6_66474
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66474-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50946
     wikipedia: https://en.wikipedia.org/wiki/Margaret_C._Anderson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66474#The-Little-Review-September-1915-Vol-2-No-6
 gutenberg_issued: '2021-10-06'
 identifiers:
   gutenberg: '66474'
